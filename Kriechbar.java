@@ -1,4 +1,6 @@
 public interface Kriechbar {
 
-    void kriechen(int turbo);
+    // Methode für das Kriechen, die eine Turbo-Einstellung erlaubt
+    void krieche();  // Das Interface benötigt nur eine Methode krieche()
 }
+
